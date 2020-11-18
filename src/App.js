@@ -1,6 +1,6 @@
 /////////////// App ///////////////////
 
-import './App.css';
+
 import { Heading } from './components/Heading';
 import Typography from "@material-ui/core/Typography";
 import Link from "@material-ui/core/Link";
