@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bprvuyyuru/fullscript-assessment.git/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/bprvuyyuru/fullscript-assessment.git/static/js/main.32022466.chunk.js",
-    "main.js.map": "/bprvuyyuru/fullscript-assessment.git/static/js/main.32022466.chunk.js.map",
+    "main.js": "/bprvuyyuru/fullscript-assessment.git/static/js/main.871cc4e9.chunk.js",
+    "main.js.map": "/bprvuyyuru/fullscript-assessment.git/static/js/main.871cc4e9.chunk.js.map",
     "runtime-main.js": "/bprvuyyuru/fullscript-assessment.git/static/js/runtime-main.29eb4f00.js",
     "runtime-main.js.map": "/bprvuyyuru/fullscript-assessment.git/static/js/runtime-main.29eb4f00.js.map",
     "static/js/2.31d55d8a.chunk.js": "/bprvuyyuru/fullscript-assessment.git/static/js/2.31d55d8a.chunk.js",
@@ -11,13 +11,12 @@
     "static/js/3.a9f793e0.chunk.js.map": "/bprvuyyuru/fullscript-assessment.git/static/js/3.a9f793e0.chunk.js.map",
     "index.html": "/bprvuyyuru/fullscript-assessment.git/index.html",
     "static/css/main.ab7136cd.chunk.css.map": "/bprvuyyuru/fullscript-assessment.git/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.31d55d8a.chunk.js.LICENSE.txt": "/bprvuyyuru/fullscript-assessment.git/static/js/2.31d55d8a.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/bprvuyyuru/fullscript-assessment.git/static/media/logo.103b5fa1.svg"
+    "static/js/2.31d55d8a.chunk.js.LICENSE.txt": "/bprvuyyuru/fullscript-assessment.git/static/js/2.31d55d8a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.29eb4f00.js",
     "static/js/2.31d55d8a.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.32022466.chunk.js"
+    "static/js/main.871cc4e9.chunk.js"
   ]
 }
