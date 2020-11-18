@@ -1,6 +1,5 @@
 /////////////// App ///////////////////
 
-import logo from './logo.svg';
 import './App.css';
 import { Heading } from './components/Heading';
 import Typography from "@material-ui/core/Typography";
